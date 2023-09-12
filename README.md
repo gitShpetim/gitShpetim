@@ -1,14 +1,21 @@
-About Me:
+About me:
 
-Greetings! I'm a passionate individual hailing from the city of New York. My journey in the realm of technology and game development has been shaped by a deep-rooted love for video games since my early teenage years. My fascination with video games ignited a curiosity about the intricacies of their creation, ultimately propelling me toward the captivating world of programming and game development.
+Hey there! 👋 I'm Shpetim, a passionate computer science student with a deep love for video games and a dream of becoming a game developer. I come from the great city of New York, and my journey into the world of programming and game development started right here.
 
-Academic Pursuit:
 
-Currently, I am pursuing a bachelor's degree, with a primary focus on Computer Science. I hope this educational experience will equip me with the robust skills and knowledge required to excel in the complex domain of technology.
+My Journey:
 
-Aspiring Game Developer:
+🎮 Growing up, I was captivated by the world of video games. From classic titles to modern masterpieces, gaming has always been a significant part of my life.
 
-My ultimate aspiration is to channel my passion for programming and game development into a fulfilling career. I am committed to honing my skills, exploring innovative ideas, and staying educated on the latest industry trends. My long-term goal is to contribute my expertise to a reputable game development company, thereby transforming my childhood dream into a thriving reality.
+🕹️ My curiosity led me to wonder, "How are these amazing games made?" This question ignited my interest in programming and the mechanics behind game development.
+
+🖥️ Today, I am pursuing a degree in Computer Science to equip myself with the knowledge and skills needed to turn my passion into a career.
+
+
+My Aspiration:
+
+🚀 After I graduate from college, my goal is to work at a game development company. I aspire to contribute to the creation of immersive and entertaining games that can bring joy to players worldwide.
+
 
 Let's Connect!
 
