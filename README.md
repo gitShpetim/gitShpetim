@@ -1,6 +1,6 @@
 About me:
 
-Hey there! 👋 I'm Shpetim, a passionate computer science student with a deep love for video games and a dream of becoming a game developer. I come from the great city of New York, and my journey into the world of programming and game development started right here.
+Hey there! 👋 I'm Shpetim, a passionate computer science student with a deep love for video games and a dream of becoming a game developer or software engineer. I come from the great city of New York, and my journey into the world of programming and game development started right here.
 
 
 My Journey:
