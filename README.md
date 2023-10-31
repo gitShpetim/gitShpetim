@@ -23,6 +23,8 @@ I am eager to connect with like-minded individuals and engage in collaborative p
 
 Thank you for visiting my GitHub profile. Let's code and game on! 🎮🚀
 
+before you leave, make sure to check out my projects in my other repositories, and let me know what you think!
+
 <!---
 gitShpetim/gitShpetim is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
